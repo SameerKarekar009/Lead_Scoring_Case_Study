@@ -16,11 +16,19 @@ To achieve a Lead conversion rate of 80% from the typical 30% by developing Logi
 
 # Approch
 Data cleaning
+
 Data Analysis – EDA
+
 WoE and IV analysis
+
 Develop ML model
+
 Split Data set
+
 Fit Logistic regression model using Train data set
+
 Evaluate Model
+
 Fit using Test data set
+
 Evaluate Model using test data set
